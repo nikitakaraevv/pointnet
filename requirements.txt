@@ -179,7 +179,7 @@ tqdm==4.31.1
 traitlets==4.3.3
 typing==3.6.6
 typing-extensions==3.7.2
-urllib3==1.24.1
+urllib3==1.24.2
 uvicorn==0.6.1
 uvloop==0.12.2
 virtualenv==16.4.3
