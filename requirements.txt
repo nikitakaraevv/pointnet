@@ -142,7 +142,7 @@ python-pcl==0.3.0a1
 python-telegram-bot==11.1.0
 pytz==2018.9
 PyWavelets==1.0.3
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==19.0.0
 qtconsole==4.5.5
 requests==2.20.1
