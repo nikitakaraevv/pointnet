@@ -57,6 +57,7 @@ class Transform(nn.Module):
        
    def forward(self, input):
         matrix3x3 = self.input_transform(input)
+        # batch matrix multiplication
         xb = torch.bmm(torch.transpose(input,1,2), matrix3x3).transpose(1,2)
 
         xb = F.relu(self.bn1(self.conv1(xb)))
@@ -90,4 +91,5 @@ class PointNet(nn.Module):
         xb = F.relu(self.bn2(self.dropout(self.fc2(xb))))
         output = self.fc3(xb)
         return self.logsoftmax(output), matrix3x3, matrix64x64
+
 

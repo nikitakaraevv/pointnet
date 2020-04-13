@@ -112,7 +112,6 @@ path.py==11.5.0
 pathspec==0.5.9
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==5.2.0
 plac==0.9.6
 plotly==4.3.0
 plyfile==0.7.1
@@ -142,7 +141,6 @@ python-pcl==0.3.0a1
 python-telegram-bot==11.1.0
 pytz==2018.9
 PyWavelets==1.0.3
-PyYAML==3.13
 pyzmq==19.0.0
 qtconsole==4.5.5
 requests==2.20.1
@@ -161,10 +159,6 @@ srsly==0.0.5
 starlette==0.11.4
 tarjan==0.2.3.2
 TBB==0.1
-telegram==0.0.1
-tensorboard==1.14.0
-tensorflow==1.14.0
-tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
@@ -179,7 +173,6 @@ tqdm==4.31.1
 traitlets==4.3.3
 typing==3.6.6
 typing-extensions==3.7.2
-urllib3==1.24.1
 uvicorn==0.6.1
 uvloop==0.12.2
 virtualenv==16.4.3
@@ -188,7 +181,6 @@ wcwidth==0.1.9
 webencodings==0.5.1
 websocket-client==0.56.0
 websockets==7.0
-Werkzeug==0.14.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 xlrd==1.2.0
