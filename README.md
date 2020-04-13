@@ -48,6 +48,7 @@ The resulting accuracy on the validation dataset is 88%. In the original paper p
 
 ## Usage
 This part of the project is still in development. However, you already can run the notebook `/nbs/PointNetSeg.ipynb` in Colab.
+
 <img src="images/airplane.gif" alt="matching points" width="400"/> 
 
 ## Authors
