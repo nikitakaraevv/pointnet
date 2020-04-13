@@ -163,7 +163,7 @@ tarjan==0.2.3.2
 TBB==0.1
 telegram==0.0.1
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
