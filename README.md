@@ -1,7 +1,10 @@
 # PointNet
 PyTorch implementation of "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593
 
+
 <img src="images/cover.gif" alt="pointnet" /> 
+
+Key points of the implementation are explained in details in [this](https://towardsdatascience.com/deep-learning-on-point-clouds-implementing-pointnet-in-google-colab-1fd65cd3a263) Medium article.
 
 ## Classification dataset
 This code implements object classification on [ModelNet10](https://modelnet.cs.princeton.edu) dataset.
