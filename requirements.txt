@@ -11,7 +11,7 @@ autopep8==1.5
 awsebcli==3.15.0
 backcall==0.1.0
 beautifulsoup4==4.7.1
-bleach==3.1.4
+bleach==3.3.0
 blessed==1.15.0
 blis==0.2.4
 botocore==1.12.131
