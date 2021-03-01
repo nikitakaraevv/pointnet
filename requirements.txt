@@ -1,6 +1,6 @@
 absl-py==0.7.1
 aiofiles==0.4.0
-aiohttp==3.5.4
+aiohttp==3.7.4
 antiorm==1.2.1
 appnope==0.1.0
 asn1crypto==0.24.0
