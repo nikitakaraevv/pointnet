@@ -84,7 +84,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 keyboard==0.13.4
 kiwisolver==1.0.1
-lxml==4.3.4
+lxml==4.6.2
 Markdown==3.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
