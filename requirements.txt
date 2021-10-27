@@ -29,7 +29,7 @@ cryptography==3.3.2
 cycler==0.10.0
 cymem==2.0.2
 Cython==0.29.14
-dask==2.1.0
+dask==2021.10.0
 db==0.1.1
 decorator==4.4.2
 defusedxml==0.6.0
