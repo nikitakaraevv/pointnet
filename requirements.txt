@@ -118,7 +118,7 @@ plyfile==0.7.1
 preshed==2.0.1
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
-protobuf==3.10.0
+protobuf==3.15.0
 ptyprocess==0.6.0
 pyamplitude==1.2.0.dev1
 pycodestyle==2.5.0
