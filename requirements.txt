@@ -88,7 +88,7 @@ lxml==4.6.5
 Markdown==3.0.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
-mistune==0.8.4
+mistune==2.0.3
 multidict==4.5.2
 murmurhash==1.0.2
 nbconvert==5.6.1
