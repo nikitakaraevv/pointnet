@@ -71,7 +71,7 @@ jdcal==1.4.1
 jedi==0.16.0
 Jinja2==2.11.3
 jmespath==0.9.4
-joblib==0.14.1
+joblib==1.2.0
 json5==0.9.2
 jsonschema==3.2.0
 jupyter==1.0.0
